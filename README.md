@@ -50,7 +50,7 @@
 <h3 align="left">📊 Real-Time GitHub Activity</h3>
 
 <!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/rohan2486/rohan2486/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Rohan2486/Rohan2486/output/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 <!-- Streak Stats -->
 <p align="center">
