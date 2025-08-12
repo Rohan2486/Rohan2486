@@ -1,8 +1,21 @@
 <h1 align="center">Hi 👋, I'm Rohan Das</h1>
 
+<h3 align="center">🚀 Full-Stack Developer | 💡 Tech Enthusiast | 🎯 Lifelong Learner</h3>
+
+---
+
 <h3 align="left">Connect with me:</h3>
 
-###
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&color=FF0000&style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&color=9146FF&style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35" />
+</div>
+
+---
 
 <div align="center">
   <!-- GitHub Stats -->
@@ -12,11 +25,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohan2486&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://media1.tenor.com/m/cqOVDfjMLbQAAAAC/mad-rage.gif" />
-
-###
+<img align="right" height="150" src="https://media1.tenor.com/m/cqOVDfjMLbQAAAAC/mad-rage.gif" alt="Fun GIF" />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
@@ -34,23 +45,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" />
 </div>
 
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&color=FF0000&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&color=9146FF&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35" />
-</div>
-
-###
+---
 
 <h3 align="left">📊 Real-Time GitHub Activity</h3>
 
 <!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/Rohan2486/Rohan2486/output/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rohan2486/Rohan2486/output/snake.svg" alt="Snake animation" />
+</p>
 
 <!-- Streak Stats -->
 <p align="center">
@@ -62,7 +64,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohan2486&theme=dracula&hide_border=false" alt="Contribution Graph" />
 </p>
 
-###
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
