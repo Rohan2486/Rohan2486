@@ -47,7 +47,9 @@
 
 ---
 
-<h3 align="left">📊 Real-Time GitHub Activity</h3>
+<h3 align="left">📊 Real-Time GitHub Activity
+![Snake animation](https://raw.githubusercontent.com/Rohan2486/Rohan2486/output/github-contribution-grid-snake.svg)
+</h3>
 
 <!-- Snake Animation -->
 <p align="center">
